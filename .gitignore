@@ -11,6 +11,9 @@ dist
 *.user
 *.userosscache
 *.sln.docstates
+.venv/
+
+env
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -361,3 +364,4 @@ MigrationBackup/
 .Rhistory
 ML-For-Beginners.Rproj
 
+.venv/Lib/site-packages/pip/__main__.py
